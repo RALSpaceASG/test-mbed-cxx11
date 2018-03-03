@@ -1,37 +1,17 @@
 {
     "GCC_ARM": {
-        "common": [],
-        "asm": [],
-        "c": [],
-        "cxx": ["-std=c++11"],
-        "ld": []
+        "cxx": ["-std=c++11"]
     },
     "ARMC6": {
-        "common": [],
-        "asm": [],
-        "c": [],
-        "cxx": ["-std=c++11"],
-        "ld": []
+        "cxx": ["-std=c++11"]
     },
     "ARM": {
-        "common": [],
-        "asm": [],
-        "c": [],
-        "cxx": ["-std=c++11"],
-        "ld": []
+        "cxx": ["-std=c++11"]
     },
     "uARM": {
-        "common": [],
-        "asm": [],
-        "c": [],
-        "cxx": ["-std=c++11"],
-        "ld": []
+        "cxx": ["-std=c++11"]
     },
     "IAR": {
-        "common": [],
-        "asm": [],
-        "c": [],
-        "cxx": ["-std=c++11"],
-        "ld": []
+        "cxx": ["-std=c++11"]
     }
 }
