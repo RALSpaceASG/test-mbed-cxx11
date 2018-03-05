@@ -1,0 +1,1 @@
+PROFILE=mbed-os/tools/profiles/develop.json cxx11_profile.json
